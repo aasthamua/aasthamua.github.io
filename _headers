@@ -1,0 +1,136 @@
+## Created with gatsby-plugin-netlify
+
+/*
+  X-Frame-Options: DENY
+  X-XSS-Protection: 1; mode=block
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: same-origin
+/66b32394d72d6541d7619afa7e37fa582365d3ce-9e9fe2a19b0b492dd5aa.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---node-modules-lekoarts-gatsby-theme-emilia-core-src-templates-projects-query-tsx-86752e31dd468963fde3.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---node-modules-lekoarts-gatsby-theme-emilia-core-src-templates-project-query-tsx-7ff7cf7fc4ad5564789b.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---cache-caches-gatsby-plugin-offline-app-shell-js-16703ee5599528db9f93.js
+  Cache-Control: public, max-age=31536000, immutable
+/webpack-runtime-c4a204e2fc3cbaea33e3.js
+  Cache-Control: public, max-age=31536000, immutable
+/framework-d585a04b7d285a7760d6.js
+  Cache-Control: public, max-age=31536000, immutable
+/app-d88cf2918d57a6ecedbf.js
+  Cache-Control: public, max-age=31536000, immutable
+/static/*
+  Cache-Control: public, max-age=31536000, immutable
+/sw.js
+  Cache-Control: no-cache
+/
+  Link: </webpack-runtime-c4a204e2fc3cbaea33e3.js>; rel=preload; as=script
+  Link: </framework-d585a04b7d285a7760d6.js>; rel=preload; as=script
+  Link: </app-d88cf2918d57a6ecedbf.js>; rel=preload; as=script
+  Link: </66b32394d72d6541d7619afa7e37fa582365d3ce-9e9fe2a19b0b492dd5aa.js>; rel=preload; as=script
+  Link: </component---node-modules-lekoarts-gatsby-theme-emilia-core-src-templates-projects-query-tsx-86752e31dd468963fde3.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/index/page-data.json>; rel=preload; as=fetch; crossorigin
+/cocktail-glam
+  Link: </webpack-runtime-c4a204e2fc3cbaea33e3.js>; rel=preload; as=script
+  Link: </framework-d585a04b7d285a7760d6.js>; rel=preload; as=script
+  Link: </app-d88cf2918d57a6ecedbf.js>; rel=preload; as=script
+  Link: </66b32394d72d6541d7619afa7e37fa582365d3ce-9e9fe2a19b0b492dd5aa.js>; rel=preload; as=script
+  Link: </component---node-modules-lekoarts-gatsby-theme-emilia-core-src-templates-project-query-tsx-7ff7cf7fc4ad5564789b.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/cocktail-glam/page-data.json>; rel=preload; as=fetch; crossorigin
+/farewell-makeover
+  Link: </webpack-runtime-c4a204e2fc3cbaea33e3.js>; rel=preload; as=script
+  Link: </framework-d585a04b7d285a7760d6.js>; rel=preload; as=script
+  Link: </app-d88cf2918d57a6ecedbf.js>; rel=preload; as=script
+  Link: </66b32394d72d6541d7619afa7e37fa582365d3ce-9e9fe2a19b0b492dd5aa.js>; rel=preload; as=script
+  Link: </component---node-modules-lekoarts-gatsby-theme-emilia-core-src-templates-project-query-tsx-7ff7cf7fc4ad5564789b.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/farewell-makeover/page-data.json>; rel=preload; as=fetch; crossorigin
+/indian-makeover
+  Link: </webpack-runtime-c4a204e2fc3cbaea33e3.js>; rel=preload; as=script
+  Link: </framework-d585a04b7d285a7760d6.js>; rel=preload; as=script
+  Link: </app-d88cf2918d57a6ecedbf.js>; rel=preload; as=script
+  Link: </66b32394d72d6541d7619afa7e37fa582365d3ce-9e9fe2a19b0b492dd5aa.js>; rel=preload; as=script
+  Link: </component---node-modules-lekoarts-gatsby-theme-emilia-core-src-templates-project-query-tsx-7ff7cf7fc4ad5564789b.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/indian-makeover/page-data.json>; rel=preload; as=fetch; crossorigin
+/disney-makeover
+  Link: </webpack-runtime-c4a204e2fc3cbaea33e3.js>; rel=preload; as=script
+  Link: </framework-d585a04b7d285a7760d6.js>; rel=preload; as=script
+  Link: </app-d88cf2918d57a6ecedbf.js>; rel=preload; as=script
+  Link: </66b32394d72d6541d7619afa7e37fa582365d3ce-9e9fe2a19b0b492dd5aa.js>; rel=preload; as=script
+  Link: </component---node-modules-lekoarts-gatsby-theme-emilia-core-src-templates-project-query-tsx-7ff7cf7fc4ad5564789b.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/disney-makeover/page-data.json>; rel=preload; as=fetch; crossorigin
+/subtle
+  Link: </webpack-runtime-c4a204e2fc3cbaea33e3.js>; rel=preload; as=script
+  Link: </framework-d585a04b7d285a7760d6.js>; rel=preload; as=script
+  Link: </app-d88cf2918d57a6ecedbf.js>; rel=preload; as=script
+  Link: </66b32394d72d6541d7619afa7e37fa582365d3ce-9e9fe2a19b0b492dd5aa.js>; rel=preload; as=script
+  Link: </component---node-modules-lekoarts-gatsby-theme-emilia-core-src-templates-project-query-tsx-7ff7cf7fc4ad5564789b.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/subtle/page-data.json>; rel=preload; as=fetch; crossorigin
+/aastha
+  Link: </webpack-runtime-c4a204e2fc3cbaea33e3.js>; rel=preload; as=script
+  Link: </framework-d585a04b7d285a7760d6.js>; rel=preload; as=script
+  Link: </app-d88cf2918d57a6ecedbf.js>; rel=preload; as=script
+  Link: </66b32394d72d6541d7619afa7e37fa582365d3ce-9e9fe2a19b0b492dd5aa.js>; rel=preload; as=script
+  Link: </component---node-modules-lekoarts-gatsby-theme-emilia-core-src-templates-project-query-tsx-7ff7cf7fc4ad5564789b.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/aastha/page-data.json>; rel=preload; as=fetch; crossorigin
+/engagement-bride
+  Link: </webpack-runtime-c4a204e2fc3cbaea33e3.js>; rel=preload; as=script
+  Link: </framework-d585a04b7d285a7760d6.js>; rel=preload; as=script
+  Link: </app-d88cf2918d57a6ecedbf.js>; rel=preload; as=script
+  Link: </66b32394d72d6541d7619afa7e37fa582365d3ce-9e9fe2a19b0b492dd5aa.js>; rel=preload; as=script
+  Link: </component---node-modules-lekoarts-gatsby-theme-emilia-core-src-templates-project-query-tsx-7ff7cf7fc4ad5564789b.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/engagement-bride/page-data.json>; rel=preload; as=fetch; crossorigin
+/light-makeup
+  Link: </webpack-runtime-c4a204e2fc3cbaea33e3.js>; rel=preload; as=script
+  Link: </framework-d585a04b7d285a7760d6.js>; rel=preload; as=script
+  Link: </app-d88cf2918d57a6ecedbf.js>; rel=preload; as=script
+  Link: </66b32394d72d6541d7619afa7e37fa582365d3ce-9e9fe2a19b0b492dd5aa.js>; rel=preload; as=script
+  Link: </component---node-modules-lekoarts-gatsby-theme-emilia-core-src-templates-project-query-tsx-7ff7cf7fc4ad5564789b.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/light-makeup/page-data.json>; rel=preload; as=fetch; crossorigin
+/party-makeup
+  Link: </webpack-runtime-c4a204e2fc3cbaea33e3.js>; rel=preload; as=script
+  Link: </framework-d585a04b7d285a7760d6.js>; rel=preload; as=script
+  Link: </app-d88cf2918d57a6ecedbf.js>; rel=preload; as=script
+  Link: </66b32394d72d6541d7619afa7e37fa582365d3ce-9e9fe2a19b0b492dd5aa.js>; rel=preload; as=script
+  Link: </component---node-modules-lekoarts-gatsby-theme-emilia-core-src-templates-project-query-tsx-7ff7cf7fc4ad5564789b.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/party-makeup/page-data.json>; rel=preload; as=fetch; crossorigin
+/farewell-gal
+  Link: </webpack-runtime-c4a204e2fc3cbaea33e3.js>; rel=preload; as=script
+  Link: </framework-d585a04b7d285a7760d6.js>; rel=preload; as=script
+  Link: </app-d88cf2918d57a6ecedbf.js>; rel=preload; as=script
+  Link: </66b32394d72d6541d7619afa7e37fa582365d3ce-9e9fe2a19b0b492dd5aa.js>; rel=preload; as=script
+  Link: </component---node-modules-lekoarts-gatsby-theme-emilia-core-src-templates-project-query-tsx-7ff7cf7fc4ad5564789b.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/farewell-gal/page-data.json>; rel=preload; as=fetch; crossorigin
+/bridal-saga
+  Link: </webpack-runtime-c4a204e2fc3cbaea33e3.js>; rel=preload; as=script
+  Link: </framework-d585a04b7d285a7760d6.js>; rel=preload; as=script
+  Link: </app-d88cf2918d57a6ecedbf.js>; rel=preload; as=script
+  Link: </66b32394d72d6541d7619afa7e37fa582365d3ce-9e9fe2a19b0b492dd5aa.js>; rel=preload; as=script
+  Link: </component---node-modules-lekoarts-gatsby-theme-emilia-core-src-templates-project-query-tsx-7ff7cf7fc4ad5564789b.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/bridal-saga/page-data.json>; rel=preload; as=fetch; crossorigin
+/kirty
+  Link: </webpack-runtime-c4a204e2fc3cbaea33e3.js>; rel=preload; as=script
+  Link: </framework-d585a04b7d285a7760d6.js>; rel=preload; as=script
+  Link: </app-d88cf2918d57a6ecedbf.js>; rel=preload; as=script
+  Link: </66b32394d72d6541d7619afa7e37fa582365d3ce-9e9fe2a19b0b492dd5aa.js>; rel=preload; as=script
+  Link: </component---node-modules-lekoarts-gatsby-theme-emilia-core-src-templates-project-query-tsx-7ff7cf7fc4ad5564789b.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/kirty/page-data.json>; rel=preload; as=fetch; crossorigin
+/offline-plugin-app-shell-fallback/
+  Link: </webpack-runtime-c4a204e2fc3cbaea33e3.js>; rel=preload; as=script
+  Link: </framework-d585a04b7d285a7760d6.js>; rel=preload; as=script
+  Link: </app-d88cf2918d57a6ecedbf.js>; rel=preload; as=script
+  Link: </component---cache-caches-gatsby-plugin-offline-app-shell-js-16703ee5599528db9f93.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/offline-plugin-app-shell-fallback/page-data.json>; rel=preload; as=fetch; crossorigin
